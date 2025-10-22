@@ -1,6 +1,6 @@
 💻 ¡Trabajo remoto es altamente preferido!  
 Si no es remoto, solo en Asunción y sus alrededores 🌍. ☞ No se considerarán otras localidades - no hay reubicación. ☜  
-💸 **Pago de horas extras disponible**: De acuerdo con el Código Laboral Paraguayo, las horas extras serán compensadas conforme a la ley.
+💸 **Pago de horas extras disponible**
 🏖️ **Vacaciones**: Se valoran períodos de descanso adecuados.
 
 ## PUESTO IDEAL
