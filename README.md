@@ -41,6 +41,6 @@ Mi enfoque en las pruebas está centrado en el **objeto de prueba** definido por
 
 ## Plataformas 🖥️
 
-- **Windows** (varias versiones)
-- **Linux** (Ubuntu 🐧, Redhat, SUSE)
+- **Windows** (7/10/11)
+- **Linux** (Ubuntu 🐧)
 - **Sistemas Legacy** (AS/400 🖥️)
