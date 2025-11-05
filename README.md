@@ -1,46 +1,107 @@
-💻 ¡Trabajo remoto es altamente preferido!  
-Si no es remoto, solo en Asunción y sus alrededores 🌍. ☞ No se considerarán otras localidades - no hay reubicación. ☜  
-💸 **Pago de horas extras disponible**
-🏖️ **Vacaciones**: Se valoran períodos de descanso adecuados.
+💻 **Preferencias Laborales**
+- Trabajo remoto altamente preferido
+- Presencial solo en Asunción y alrededores
+- No considero otras ubicaciones - sin reubicación
+- Pago de horas extras disponible
+- Valoración de períodos de descanso adecuados
 
-## PUESTO IDEAL
+## 🎯 PUESTO IDEAL
 
-Posición permanente 🏢. Consideraré un contrato solo si la oportunidad es realmente excepcional.  
-Enfocado en **pruebas manuales y automatizadas** 🔍, con experiencia en lenguajes de programación como: Java ☕, Python 🐍 y JavaScript 🔗.  
-Pregunta sobre 💵 requisitos salariales antes de que ambos perdamos tiempo.
+**Tipo de Contrato:**
+- Posición permanente 🏢
+- Contrato solo para oportunidades excepcionales
 
----
+**Enfoque Técnico:**
+Pruebas manuales y automatizadas 🔍 con experiencia en:
+- Java ☕
+- Python 🐍  
+- JavaScript 🔗
 
-**Tester de software con más de 4 años de experiencia trabajando en empresas Fintech y PyMEs. Especializado y certificado en garantizar la calidad, eficiencia y mejora del software basándome en estándares ISTQB®.**
-
-Realizo pruebas centrándome en el objeto de prueba que define cada proyecto o historia de usuario, utilizando como base de pruebas los criterios de aceptación, que, consiguientes derivan en diseños de casos de pruebas de alto nivel o de bajo nivel. 
-
-Mi enfoque no solo está en verificar el cumplimiento de los requisitos, sino también en validar que el software cumpla las necesidades reales del usuario. Para ello, aplico pruebas de usabilidad y ofrezco ideas u opiniones constructivas que mejoran la funcionalidad del producto y la experiencia de usuario.
-
-- **Hard Skills** 🔧:  
-  Pruebas automatizadas (UI con Robot Framework 🤖, APIs 🌐), pruebas de carga (JMeter ⚡), gestión y optimización de bases de datos con SQL 🗃️, control de versiones con GIT 🔀, uso de herramientas de gestión de pruebas (Jira 🛠️, Azure ☁️, Redmine 🔴), y experiencia en la plataforma AS/400 para pruebas en sistemas legacy 🖥️.
-
-- **Soft Skills** 💬:  
-  Pensamiento crítico 🧠, resolución de problemas 🔍, trabajo en equipo 🤝, autonomía 💪, comunicación asertiva 🗣️.
+**⚠️ Importante:** Consultar requisitos salariales antes de continuar
 
 ---
 
-**Así mismo**, me esfuerzo en aprender y adaptarme a nuevas tecnologías y metodologías para asegurarme de ofrecer soluciones innovadoras y de alta calidad. Mi compromiso con la mejora continua es clave para proporcionar resultados que superen las expectativas de los usuarios y del equipo de desarrollo.
+## 👨‍💻 PERFIL PROFESIONAL
 
-### CERTIFICACIONES 🎓
+QA con más de 4 años de experiencia en empresas **Fintech y PYMEs**. Realizo pruebas centradas en el objeto de prueba colaborando con equipos multidisciplinarios mediante metodología **Agile SCRUM**, utilizando criterios de aceptación y conversaciones con stakeholders para diseñar casos de prueba adaptados al contexto del proyecto.
+
+### 🔍 Experiencia en Pruebas
+
+**Tipos de Pruebas:**
+- ✅ Funcionales y no funcionales
+- ✅ Regresión y UAT
+- ✅ End-to-End (E2E)
+- ✅ API y usabilidad
+- ✅ Accesibilidad
+
+**Plataformas Probadas:**
+- 🌐 Aplicaciones web (React, AngularJS, HTML, CSS)
+- 📱 Aplicaciones móviles (Android e iOS)
+- 💳 Terminales POS (Feitian F20 y New POS 9220)
+
+### 🤖 Automatización
+
+**Front End:**
+- Robot Framework
+- Selenium
+- Selenium IDE (Low Code)
+
+**Back End:**
+- API con Postman y Newman
+- Integración CI/CD (GitHub Actions, GitLab CI/CD)
+
+### 📊 Gestión de Calidad
+
+- Pruebas estáticas y revisión de requisitos
+- Diseño de casos de prueba (alto y bajo nivel)
+- Planificación y coordinación de actividades
+- Ingeniería de calidad e iniciativas de mejora
+- Identificación y seguimiento de defectos
+
+---
+
+## 🛠 HABILIDADES TÉCNICAS
+
+**Hard Skills** 🔧:
+- Pruebas automatizadas UI/API
+- Pruebas de carga (JMeter ⚡)
+- Bases de datos SQL 🗃️
+- Control de versiones GIT 🔀
+- Herramientas de gestión (Jira 🛠️, Azure ☁️, Redmine 🔴)
+- Sistemas legacy (AS/400 🖥️)
+
+**Soft Skills** 💬:
+- Pensamiento crítico 🧠
+- Resolución de problemas 🔍
+- Trabajo en equipo 🤝
+- Autonomía 💪
+- Comunicación asertiva 🗣️
+
+---
+
+## 🎓 CERTIFICACIONES
 
 - Certified Tester Foundation Level (ISTQB® CTFL)
 - Accredited Scrum Foundation Certification (AICS® ASFC)
 - Python (Edutin Academy)
 - Git (Edutin Academy)
-- Certificado en QA Testing: Basic Guide for QA y Robot Framework (Udemy)
-- Accredited Software Testing Fundamentals Certification (AICS® ASTFC)
+- QA Testing: Robot Framework (Udemy)
+- Software Testing Fundamentals (AICS® ASTFC)
 
-### Plataformas 🖥️
+## 💻 PLATAFORMAS
 
 - Windows (7/10/11)
 - Linux (Ubuntu 🐧)
 - Sistemas Legacy (AS/400 🖥️)
 
-📚 **Publicaciones en Medium:**  
-Para leer mis artículos, proyectos y reflexiones sobre testing, visita mi cuenta de Medium: [@alexisgimbaez](https://medium.com/@alexisgimbaez)
+---
+
+## 📝 CONTENIDO Y CONTACTO
+
+**📚 Medium:** 
+Comparto aprendizajes y experiencias en testing:
+👉 https://bit.ly/4nLj1Et
+
+**📧 Contacto:**
+Abierto a oportunidades laborales
+💬 linkeddincontactemail.dimly660@aleeas.com
