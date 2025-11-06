@@ -1,45 +1,45 @@
-💻 **Preferencias Laborales**
-- Trabajo remoto altamente preferido
-- Presencial solo en Asunción y alrededores
-- No considero otras ubicaciones - sin reubicación
-- Pago de horas extras disponible
-- Valoración de períodos de descanso adecuados
+💻 **Work Preferences**
+- Strongly prefer remote work
+- On-site only in Asunción and surrounding areas
+- Not considering other locations - no relocation
+- Overtime pay available
+- Value adequate rest periods
 
-## 🎯 PUESTO IDEAL
+## 🎯 IDEAL POSITION
 
-**Tipo de Contrato:**
-- Posición permanente 🏢
-- Contrato solo para oportunidades excepcionales
+**Contract Type:**
+- Permanent position 🏢
+- Contract only for exceptional opportunities
 
-**Enfoque Técnico:**
-Pruebas manuales y automatizadas 🔍 con experiencia en:
+**Technical Focus:**
+Manual and automated testing 🔍 with experience in:
 - Java ☕
 - Python 🐍  
 - JavaScript 🔗
 
-**⚠️ Importante:** Consultar requisitos salariales antes de continuar
+**⚠️ Important:** Inquire about salary requirements before proceeding
 
 ---
 
-## 👨‍💻 PERFIL PROFESIONAL
+## 👨‍💻 PROFESSIONAL PROFILE
 
-QA con más de 4 años de experiencia en empresas **Fintech y PYMEs**. Realizo pruebas centradas en el objeto de prueba colaborando con equipos multidisciplinarios mediante metodología **Agile SCRUM**, utilizando criterios de aceptación y conversaciones con stakeholders para diseñar casos de prueba adaptados al contexto del proyecto.
+QA with over 4 years of experience in **Fintech companies and SMEs**. I perform testing focused on the test object by collaborating with multidisciplinary teams using **Agile SCRUM** methodology, utilizing acceptance criteria and conversations with stakeholders to design test cases tailored to the project context.
 
-### 🔍 Experiencia en Pruebas
+### 🔍 Testing Experience
 
-**Tipos de Pruebas:**
-- ✅ Funcionales y no funcionales
-- ✅ Regresión y UAT
+**Testing Types:**
+- ✅ Functional and non-functional
+- ✅ Regression and UAT
 - ✅ End-to-End (E2E)
-- ✅ API y usabilidad
-- ✅ Accesibilidad
+- ✅ API and usability
+- ✅ Accessibility
 
-**Plataformas Probadas:**
-- 🌐 Aplicaciones web (React, AngularJS, HTML, CSS)
-- 📱 Aplicaciones móviles (Android e iOS)
-- 💳 Terminales POS (Feitian F20 y New POS 9220)
+**Tested Platforms:**
+- 🌐 Web applications (React, AngularJS, HTML, CSS)
+- 📱 Mobile applications (Android and iOS)
+- 💳 POS terminals (Feitian F20 and New POS 9220)
 
-### 🤖 Automatización
+### 🤖 Automation
 
 **Front End:**
 - Robot Framework
@@ -47,39 +47,39 @@ QA con más de 4 años de experiencia en empresas **Fintech y PYMEs**. Realizo p
 - Selenium IDE (Low Code)
 
 **Back End:**
-- API con Postman y Newman
-- Integración CI/CD (GitHub Actions, GitLab CI/CD)
+- API with Postman and Newman
+- CI/CD integration (GitHub Actions, GitLab CI/CD)
 
-### 📊 Gestión de Calidad
+### 📊 Quality Management
 
-- Pruebas estáticas y revisión de requisitos
-- Diseño de casos de prueba (alto y bajo nivel)
-- Planificación y coordinación de actividades
-- Ingeniería de calidad e iniciativas de mejora
-- Identificación y seguimiento de defectos
+- Static testing and requirements review
+- Test case design (high and low level)
+- Activity planning and coordination
+- Quality engineering and improvement initiatives
+- Defect identification and tracking
 
 ---
 
-## 🛠 HABILIDADES TÉCNICAS
+## 🛠 TECHNICAL SKILLS
 
 **Hard Skills** 🔧:
-- Pruebas automatizadas UI/API
-- Pruebas de carga (JMeter ⚡)
-- Bases de datos SQL 🗃️
-- Control de versiones GIT 🔀
-- Herramientas de gestión (Jira 🛠️, Azure ☁️, Redmine 🔴)
-- Sistemas legacy (AS/400 🖥️)
+- Automated UI/API testing
+- Load testing (JMeter ⚡)
+- SQL databases 🗃️
+- GIT version control 🔀
+- Management tools (Jira 🛠️, Azure ☁️, Redmine 🔴)
+- Legacy systems (AS/400 🖥️)
 
 **Soft Skills** 💬:
-- Pensamiento crítico 🧠
-- Resolución de problemas 🔍
-- Trabajo en equipo 🤝
-- Autonomía 💪
-- Comunicación asertiva 🗣️
+- Critical thinking 🧠
+- Problem solving 🔍
+- Teamwork 🤝
+- Autonomy 💪
+- Assertive communication 🗣️
 
 ---
 
-## 🎓 CERTIFICACIONES
+## 🎓 CERTIFICATIONS
 
 - Certified Tester Foundation Level (ISTQB® CTFL)
 - Accredited Scrum Foundation Certification (AICS® ASFC)
@@ -88,20 +88,20 @@ QA con más de 4 años de experiencia en empresas **Fintech y PYMEs**. Realizo p
 - QA Testing: Robot Framework (Udemy)
 - Software Testing Fundamentals (AICS® ASTFC)
 
-## 💻 PLATAFORMAS
+## 💻 PLATFORMS
 
 - Windows (7/10/11)
 - Linux (Ubuntu 🐧)
-- Sistemas Legacy (AS/400 🖥️)
+- Legacy Systems (AS/400 🖥️)
 
 ---
 
-## 📝 CONTENIDO Y CONTACTO
+## 📝 CONTENT & CONTACT
 
 **📚 Medium:** 
-Comparto aprendizajes y experiencias en testing:
+I share testing learnings and experiences:
 👉 https://bit.ly/4nLj1Et
 
-**📧 Contacto:**
-Abierto a oportunidades laborales
+**📧 Contact:**
+Open to job opportunities
 💬 linkeddincontactemail.dimly660@aleeas.com
