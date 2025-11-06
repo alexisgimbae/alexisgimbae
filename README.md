@@ -1,21 +1,21 @@
-💻 **Work Preferences**
-- Strongly prefer remote work
-- On-site only in Asunción and surrounding areas
-- Not considering other locations - no relocation
-- Overtime pay available
-- Value adequate rest periods
+💼 **Work Preferences**
+- 🌐 Strongly prefer remote work
+- 🏙️ On-site only in Asunción and surrounding areas
+- 🚫 Not considering other locations - no relocation
+- ⏰ Overtime pay available
+- 🏖️ Value adequate rest periods
 
 ## 🎯 IDEAL POSITION
 
 **Contract Type:**
-- Permanent position 🏢
-- Contract only for exceptional opportunities
+- 📄 Permanent position
+- 📑 Contract only for exceptional opportunities
 
 **Technical Focus:**
-Manual and automated testing 🔍 with experience in:
-- Java ☕
-- Python 🐍  
-- JavaScript 🔗
+Manual and automated testing with experience in:
+- ☕ Java
+- 🐍 Python  
+- 💛 JavaScript
 
 **⚠️ Important:** Inquire about salary requirements before proceeding
 
@@ -23,7 +23,7 @@ Manual and automated testing 🔍 with experience in:
 
 ## 👨‍💻 PROFESSIONAL PROFILE
 
-QA with over 4 years of experience in **Fintech companies and SMEs**. I perform testing focused on the test object by collaborating with multidisciplinary teams using **Agile SCRUM** methodology, utilizing acceptance criteria and conversations with stakeholders to design test cases tailored to the project context.
+QA Engineer with over 4 years of experience in **Fintech companies and SMEs**. I perform testing focused on the test object by collaborating with multidisciplinary teams using **Agile SCRUM** methodology, utilizing acceptance criteria and conversations with stakeholders to design test cases tailored to the project context.
 
 ### 🔍 Testing Experience
 
@@ -42,61 +42,61 @@ QA with over 4 years of experience in **Fintech companies and SMEs**. I perform 
 ### 🤖 Automation
 
 **Front End:**
-- Robot Framework
-- Selenium
-- Selenium IDE (Low Code)
+- 🤖 Robot Framework
+- 🌐 Selenium
+- 🛠️ Selenium IDE (Low Code)
 
 **Back End:**
-- API with Postman and Newman
-- CI/CD integration (GitHub Actions, GitLab CI/CD)
+- 🔗 API with Postman and Newman
+- 🔄 CI/CD integration (GitHub Actions, GitLab CI/CD)
 
 ### 📊 Quality Management
 
-- Static testing and requirements review
-- Test case design (high and low level)
-- Activity planning and coordination
-- Quality engineering and improvement initiatives
-- Defect identification and tracking
+- 📋 Static testing and requirements review
+- 📝 Test case design (high and low level)
+- 📅 Activity planning and coordination
+- ⚙️ Quality engineering and improvement initiatives
+- 🐛 Defect identification and tracking
 
 ---
 
 ## 🛠 TECHNICAL SKILLS
 
-**Hard Skills** 🔧:
-- Automated UI/API testing
-- Load testing (JMeter ⚡)
-- SQL databases 🗃️
-- GIT version control 🔀
-- Management tools (Jira 🛠️, Azure ☁️, Redmine 🔴)
-- Legacy systems (AS/400 🖥️)
+**Hard Skills**:
+- 🤖 Automated UI/API testing
+- 📊 Load testing (JMeter)
+- 🗃️ SQL databases
+- 🔀 GIT version control
+- 🛠️ Management tools (Jira, Azure, Redmine)
+- 💻 Legacy systems (AS/400)
 
-**Soft Skills** 💬:
-- Critical thinking 🧠
-- Problem solving 🔍
-- Teamwork 🤝
-- Autonomy 💪
-- Assertive communication 🗣️
+**Soft Skills**:
+- 🧠 Critical thinking
+- 🔍 Problem solving
+- 👥 Teamwork
+- 💪 Autonomy
+- 💬 Assertive communication
 
 ---
 
-## 🎓 CERTIFICATIONS
+## 📜 CERTIFICATIONS
 
-- Certified Tester Foundation Level (ISTQB® CTFL)
-- Accredited Scrum Foundation Certification (AICS® ASFC)
-- Python (Edutin Academy)
-- Git (Edutin Academy)
-- QA Testing: Robot Framework (Udemy)
-- Software Testing Fundamentals (AICS® ASTFC)
+- 🏅 Certified Tester Foundation Level (ISTQB® CTFL)
+- 🎯 Accredited Scrum Foundation Certification (AICS® ASFC)
+- 🐍 Python (Edutin Academy)
+- 🔄 Git (Edutin Academy)
+- 🤖 QA Testing: Robot Framework (Udemy)
+- 📊 Software Testing Fundamentals (AICS® ASTFC)
 
 ## 💻 PLATFORMS
 
-- Windows (7/10/11)
-- Linux (Ubuntu 🐧)
-- Legacy Systems (AS/400 🖥️)
+- 🪟 Windows (7/10/11)
+- 🐧 Linux (Ubuntu)
+- 💾 Legacy Systems (AS/400)
 
 ---
 
-## 📝 CONTENT & CONTACT
+## 📞 CONTENT & CONTACT
 
 **📚 Medium:** 
 I share testing learnings and experiences:
@@ -104,4 +104,4 @@ I share testing learnings and experiences:
 
 **📧 Contact:**
 Open to job opportunities
-💬 linkeddincontactemail.dimly660@aleeas.com
+💼 linkeddincontactemail.dimly660@aleeas.com
