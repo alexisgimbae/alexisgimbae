@@ -101,7 +101,3 @@ QA Engineer with over 4 years of experience in **Fintech companies and SMEs**. I
 **📚 Medium:** 
 I share testing learnings and experiences:
 👉 https://bit.ly/4nLj1Et
-
-**📧 Contact:**
-Open to job opportunities
-💼 linkeddincontactemail.dimly660@aleeas.com
