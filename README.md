@@ -101,3 +101,6 @@ QA Engineer with over 4 years of experience in **Fintech companies and SMEs**. I
 **📚 Medium:** 
 I share testing learnings and experiences:
 👉 https://bit.ly/4nLj1Et
+
+## Tu contribución, sin importar el monto, hace una diferencia real.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31PIAHI)
